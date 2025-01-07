@@ -1731,5 +1731,174 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "199",
+        "number": 11,
+        "title": "Sen to Chihiro no Kamikakushi",
+        "shortTitle": "Spirited Away",
+        "image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199-Sm2RU5PSqw7T.jpg",
+        "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199-ilRRfrty7HrJ.jpg",
+        "deskripsi": "Sen to Chihiro no Kamikakushi memegang rekor sebagai film terlaris dalam sejarah Jepang dari tahun 2001 hingga 2020. Hingga Desember 2020, film ini telah mengumpulkan total 31,68 miliar yen dari penjualan box office Jepang dan total $395,8 juta di seluruh dunia.",
+        "sinopsis": "Dalam perjalanan menuju rumah baru mereka, keluarga Chihiro Ogino yang berusia 10 tahun menemukan sebuah taman hiburan yang sepi. Penasaran, keluarga itu menyelidiki taman itu, meskipun tanpa sepengetahuan mereka, taman itu diam-diam dihuni oleh roh-roh yang tidur di siang hari dan muncul di malam hari. Ketika ibu dan ayah Chihiro makan makanan dari sebuah restoran di jalan, roh-roh yang marah mengubah mereka menjadi babi. Selanjutnya, lautan luas telah muncul di antara dunia roh dan dunia manusia, menjebak Chihiro, satu-satunya manusia, di tanah roh. Beruntung baginya, seorang anak laki-laki misterius bernama Haku muncul, mengaku mengenalnya dari masa lalu. Di bawah instruksinya, Chihiro mendapatkan pekerjaan di pemandian tempat Haku bekerja. Hanya dengan keberaniannya dan beberapa teman baru untuk membantunya, Chihiro memulai perjalanan untuk mengembalikan orang tuanya ke bentuk asli mereka dan kembali ke rumah.",
+        "studio": "Studio Ghibli",
+        "status": "FINISHED",
+        "genre": [
+            "Drama",
+            "Adventure",
+            "Fantasy",
+            "Supernatural"
+        ],
+        "rating": 8.6,
+        "duration": "2h 4m",
+        "subtitle": "Indonesia",
+        "ratingUmur": "PG-10",
+        "year": 2001,
+        "type": "movie",
+        "timestamp": "2025-01-10T14:03:00.000Z",
+        "karakter": [
+            {
+                "image": "https://s4.anilist.co/file/anilistcdn/character/large/b385-pKGCy3oYWxRa.png",
+                "karakter": "Haku",
+                "peran": "MAIN"
+            },
+            {
+                "image": "https://s4.anilist.co/file/anilistcdn/character/large/b384-AoWCsQyG0WI7.png",
+                "karakter": "Chihiro Ogino",
+                "peran": "MAIN"
+            },
+            {
+                "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4716-8uiG2k2xQKvN.png",
+                "karakter": "Yubaba",
+                "peran": "SUPPORTING"
+            },
+            {
+                "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8305-EGm4vAcY75BG.jpg",
+                "karakter": "Zeniba",
+                "peran": "SUPPORTING"
+            },
+            {
+                "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8302-nDLFWgXoulqJ.png",
+                "karakter": "Bou",
+                "peran": "SUPPORTING"
+            },
+            {
+                "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8298-07C1RV5lvy7m.png",
+                "karakter": "Kaonashi",
+                "peran": "SUPPORTING"
+            }
+        ],
+        "donlot": [
+            {
+                "quality": "1080P",
+                "url": "https://ggredi.info/download.php?url=aHR0cHM6LyAdeqwrwedffryretgsdFrsftrsvfsfsr9ld2FlemAawehyfcghysfdsDGDYdgdsfsdfwstdgdsgtertRyZGFiLmFuZjU5OC5jb20vdXNlcjEzNDIvODNkYzgyYTg1MzljMzgzMWQ4YmYzY2YyNTg0NGYwZTkvRVAuMS52MC4xNzA5Njk2NDA1LjM2MHAubXA0P3Rva2VuPUFRbE9CVWUxOEN6ay04aWlPNTZvOVEmZXhwaXJlcz0xNzM2MjQ1NTU3JmlkPTIyMTQzOQ=="
+            },
+            {
+                "quality": "720P",
+                "url": "https://ggredi.info/download.php?url=aHR0cHM6LyAdeqwrwedffryretgsdFrsftrsvfsfsr9ld2FlemAawehyfcghysfdsDGDYdgdsfsdfwstdgdsgtertRyZGFiLmFuZjU5OC5jb20vdXNlcjEzNDIvODNkYzgyYTg1MzljMzgzMWQ4YmYzY2YyNTg0NGYwZTkvRVAuMS52MC4xNzA5Njk2NDA1LjM2MHAubXA0P3Rva2VuPUFRbE9CVWUxOEN6ay04aWlPNTZvOVEmZXhwaXJlcz0xNzM2MjQ1NTU3JmlkPTIyMTQzOQ=="
+            },
+            {
+                "quality": "480P",
+                "url": "https://ggredi.info/download.php?url=aHR0cHM6LyAdeqwrwedffryretgsdFrsftrsvfsfsr9ld2FlemAawehyfcghysfdsDGDYdgdsfsdfwstdgdsgtertRyZGFiLmFuZjU5OC5jb20vdXNlcjEzNDIvODNkYzgyYTg1MzljMzgzMWQ4YmYzY2YyNTg0NGYwZTkvRVAuMS52MC4xNzA5Njk2NDA1LjM2MHAubXA0P3Rva2VuPUFRbE9CVWUxOEN6ay04aWlPNTZvOVEmZXhwaXJlcz0xNzM2MjQ1NTU3JmlkPTIyMTQzOQ=="
+            },
+            {
+                "quality": "360P",
+                "url": "https://ggredi.info/download.php?url=aHR0cHM6LyAdeqwrwedffryretgsdFrsftrsvfsfsr9ld2FlemAawehyfcghysfdsDGDYdgdsfsdfwstdgdsgtertRyZGFiLmFuZjU5OC5jb20vdXNlcjEzNDIvODNkYzgyYTg1MzljMzgzMWQ4YmYzY2YyNTg0NGYwZTkvRVAuMS52MC4xNzA5Njk2NDA1LjM2MHAubXA0P3Rva2VuPUFRbE9CVWUxOEN6ay04aWlPNTZvOVEmZXhwaXJlcz0xNzM2MjQ1NTU3JmlkPTIyMTQzOQ=="
+            }
+        ],
+        "episode": [
+            {
+                "episode": "1",
+                "thumbnails": "",
+                "url": "https://fgh5.biananset.net/_v7/94e70bd77c7256cbbc97c23f99afad0bbf50b1d78ae78de049a7f7850e90c0cecabb05d46f9b771e5f1e9c6466a1be3a5c8ba5a7002f3ed25b7267deaa3e032a0248d3afccc7c7ae98d1b5368c17cede99ef42f92a73ad289e268ec31286271e864b777f166cb0876dfa51fd6d4d5058701cdc063bfafeae0b5d5862fec80c94/master.m3u8",
+                "trackData": [
+                    {
+                        "src": "https://raw.githubusercontent.com/Cihuy-collab/trailer/refs/heads/main/anime/movie/subtitle/Spirited-Away-id.vtt",
+                        "label": "Indonesia",
+                        "language": "id",
+                        "kind": "subtitles",
+                        "type": "vtt",
+                        "default": true
+                    },
+                    {
+                        "src": "",
+                        "language": "en-US",
+                        "kind": "chapters",
+                        "type": "vtt",
+                        "default": false,
+                        "label": ""
+                    }
+                ]
+            }
+        ],
+        "artplayer": [
+            {
+                "plugin": [
+                    {
+                        "thumbnailsVtt": ""
+                    }
+                ],
+                "thumbnails": [
+                    {
+                        "url": "",
+                        "number": 30,
+                        "column": 10
+                    }
+                ],
+                "trailer": "https://www.youtube.com/embed/fDUFP7EeXLE?si=XgPn43K7iHCqFqLg",
+                "subtitle": [
+                    {
+                        "default": false,
+                        "html": "Indonesia",
+                        "url": ""
+                    },
+                    {
+                        "html": "Japanese",
+                        "url": ""
+                    },
+                    {
+                        "html": "Chinese",
+                        "url": ""
+                    },
+                    {
+                        "html": "English",
+                        "url": ""
+                    }
+                ],
+                "quality": [
+                    {
+                        "url": ""
+                    },
+                    {
+                        "url": ""
+                    },
+                    {
+                        "url": ""
+                    }
+                ],
+                "highlight": [
+                    {
+                        "time": 15,
+                        "text": "One more chance"
+                    },
+                    {
+                        "time": 30,
+                        "text": "谁でもいいはずなのに"
+                    },
+                    {
+                        "time": 45,
+                        "text": "夏の想い出がまわる"
+                    },
+                    {
+                        "time": 60,
+                        "text": "こんなとこにあるはずもないのに"
+                    },
+                    {
+                        "time": 75,
+                        "text": "终わり"
+                    }
+                ]
+            }
+        ]
     }
 ]
