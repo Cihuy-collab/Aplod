@@ -1,0 +1,150 @@
+[
+    {
+        "id": "001",
+        "number": 1,
+        "title": "Rara Kudo",
+        "shortTitle": "Rara Kudo",
+        "image": "https://raw.githubusercontent.com/AlenaMiaw/akjsdh/refs/heads/main/data/poster/2-rarakudo.jpg",
+        "poster": "https://raw.githubusercontent.com/AlenaMiaw/akjsdh/refs/heads/main/data/poster/1-rarakudo.jpg",
+        "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et erat sit amet sapien gravida pulvinar.",
+        "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et erat sit amet sapien gravida pulvinar.",
+        "studio": "JEMBUT",
+        "status": "FINISHED",
+        "genre": [
+            "Loli",
+            "Batang Hitam",
+            "Family"
+        ],
+        "rating": 8.9,
+        "duration": "1h 22m",
+        "subtitle": "",
+        "ratingUmur": "PG-13",
+        "year": 2024,
+        "type": "movie",
+        "timestamp": "2024-02-23T21:19:00.000Z",
+        "donlot": [
+            {
+                "quality": "1080P",
+                "url": "https://sfl.gl/oeyK7tq"
+            },
+            {
+                "quality": "720P",
+                "url": "https://sfl.gl/oeyK7tq"
+            },
+            {
+                "quality": "480P",
+                "url": "https://sfl.gl/oeyK7tq"
+            },
+            {
+                "quality": "360P",
+                "url": "https://sfl.gl/oeyK7tq"
+            }
+        ],
+        "episode": [
+            {
+                "episode": "1",
+                "thumbnails": "",
+                "url": "https://cihuytwewew.blogspot.com/?player=plyr&provider=rand&format=video%2Fmp4&link=https%3A%2F%2Fgithub.com%2FCihuy-collab%2FAplod%2Freleases%2Fdownload%2FVideo%2FPRara_Kudo.mp4",
+                "trackData": [
+                    {
+                        "src": "",
+                        "label": "Indonesia",
+                        "language": "id",
+                        "kind": "subtitles",
+                        "default": true,
+                        "type": "vtt"
+                    },
+                    {
+                        "src": "",
+                        "label": "Jawa",
+                        "language": "jv",
+                        "kind": "subtitles",
+                        "type": "vtt"
+                    },
+                    {
+                        "src": "",
+                        "language": "en-US",
+                        "kind": "chapters",
+                        "type": "vtt",
+                        "default": false,
+                        "label": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "001",
+        "number": 1,
+        "title": "Rara Kudo",
+        "shortTitle": "Rara Kudo",
+        "image": "https://raw.githubusercontent.com/AlenaMiaw/akjsdh/refs/heads/main/data/poster/2-rarakudo.jpg",
+        "poster": "https://raw.githubusercontent.com/AlenaMiaw/akjsdh/refs/heads/main/data/poster/1-rarakudo.jpg",
+        "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et erat sit amet sapien gravida pulvinar.",
+        "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et erat sit amet sapien gravida pulvinar.",
+        "studio": "JEMBUT",
+        "status": "FINISHED",
+        "genre": [
+            "Loli",
+            "Batang Hitam",
+            "Family"
+        ],
+        "rating": 8.9,
+        "duration": "1h 22m",
+        "subtitle": "",
+        "ratingUmur": "PG-13",
+        "year": 2024,
+        "type": "movie",
+        "timestamp": "2024-02-23T21:19:00.000Z",
+        "donlot": [
+            {
+                "quality": "1080P",
+                "url": "https://sfl.gl/oeyK7tq"
+            },
+            {
+                "quality": "720P",
+                "url": "https://sfl.gl/oeyK7tq"
+            },
+            {
+                "quality": "480P",
+                "url": "https://sfl.gl/oeyK7tq"
+            },
+            {
+                "quality": "360P",
+                "url": "https://sfl.gl/oeyK7tq"
+            }
+        ],
+        "episode": [
+            {
+                "episode": "1",
+                "thumbnails": "",
+                "url": "https://www.terabox.tech/play.html?url=https%3A%2F%2Fterabox.com%2Fs%2F1D6E6d_lhNz25G8IWcdY9kQ",
+                "trackData": [
+                    {
+                        "src": "",
+                        "label": "Indonesia",
+                        "language": "id",
+                        "kind": "subtitles",
+                        "default": true,
+                        "type": "vtt"
+                    },
+                    {
+                        "src": "",
+                        "label": "Jawa",
+                        "language": "jv",
+                        "kind": "subtitles",
+                        "type": "vtt"
+                    },
+                    {
+                        "src": "",
+                        "language": "en-US",
+                        "kind": "chapters",
+                        "type": "vtt",
+                        "default": false,
+                        "label": ""
+                    }
+                ]
+            }
+        ]
+    }
+]
