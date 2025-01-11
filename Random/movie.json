@@ -457,7 +457,7 @@
                 "url": "https://wf1.biananset.net/_v7/22c70043d9fd8aebe8f342388a5ef72ccfb0d7c9ce29dc32e71f64f605e71839b3d46b37a9cec40261c6fe165f9819af3f8f81ee2ffddbdf0ec338476b3fdfec27969f5dcef86c6a4a6e1fb10bdaf944932273de1fde299e7f919b185c5c4f5f87b227a7d3ecf79ecd91503b54567ffd29e585c3ee64d2fbce3986be34180c86/master.m3u8",
                 "trackData": [
                     {
-                        "src": "https://raw.githubusercontent.com/Cihuy-collab/trailer/refs/heads/main/anime/movie/trailer/5-centimeter/patemaInvertedsubindo.vtt",
+                        "src": "https://raw.githubusercontent.com/Cihuy-collab/trailer/refs/heads/main/anime/movie/trailer/5-centimeter/patemainvertedsubindo.vtt",
                         "label": "Indonesia",
                         "language": "id",
                         "kind": "subtitles",
@@ -489,12 +489,12 @@
                         "column": 10
                     }
                 ],
-                "trailer": "https://makeplayervid.blogspot.com/?player=fluidplayer&provider=rand&format=video%2Fmp4&link=https%3A%2F%2Fraw.githubusercontent.com%2FAlenaMiaw%2F1169%2Frefs%2Fheads%2Fmain%2Fblogor%2Fpatema-invert.mp4",
+                "trailer": "https://www.youtube.com/embed/vbBctWCoBf0?si=mg7IacZezaUmnYN1",
                 "subtitle": [
                     {
                         "default": true,
                         "html": "Indonesia",
-                        "url": "https://raw.githubusercontent.com/Cihuy-collab/trailer/refs/heads/main/anime/movie/trailer/5-centimeter/PatemaInvertedsubindo.srt"
+                        "url": "https://raw.githubusercontent.com/Cihuy-collab/trailer/refs/heads/main/anime/movie/trailer/5-centimeter/patemainvertedsubindo.vtt"
                     },
                     {
                         "html": "Japanese",
